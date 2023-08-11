@@ -1,0 +1,6 @@
+body {
+    background-color: steelblue;
+}
+.form-control::placeholder {
+    color: white !important;
+}
